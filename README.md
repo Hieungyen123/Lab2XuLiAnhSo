@@ -24,5 +24,3 @@ Bước 8: sử dụng GitHub Pages để code được chạy trên server củ
   Sau vài phút chờ đợi GitHub Pages sẽ trả về đường link mà code chúng ta được chạy. 
   https://hieungyen123.github.io/Equalize-Histogram/ đây là link được chạy như trong hình.
   Hieungyen123/Equalize-Histogram (github.com) đây là link github mà code được đưa lên.
- 
-
